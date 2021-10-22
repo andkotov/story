@@ -266,7 +266,7 @@ html, body {
 	 border-radius: 40px;
 	 animation: minzoom infinite 13s alternate;
 	 transform-origin: left;
-	 1box-shadow: 0 0 200px black, inset 0 0 15px 0 black;
+	 box-shadow: 0 0 100px black, inset 0 0 15px 0 black;
 	 z-index: 1;
 	 position: relative;
 	 background: #000000ba;
