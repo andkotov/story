@@ -48,7 +48,7 @@ html, body {
 	 position: absolute;
 	 top: 40px;
 	 right: 40px;
-	 animation: rideimg infinite 32s ease-in-out 0.5s;
+	 1animation: rideimg infinite 32s ease-in-out 0.5s;
 	 z-index: 0;
  }
  .logo .image {
