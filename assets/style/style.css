@@ -13,6 +13,7 @@ html, body {
 	cursor: default;
 	overflow-x: hidden;
 	max-width: 100%;
+	min-width: 500px;
    
 }
 	.wrapper {
