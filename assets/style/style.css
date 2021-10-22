@@ -23,6 +23,7 @@ html, body {
 	 overflow: hidden;
 	 max-width: 1600px;
 	 margin: 0 auto;
+		min-width: 540px;
  }
  .fullscreen {
 	 display: flex;
